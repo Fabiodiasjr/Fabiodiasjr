@@ -9,7 +9,9 @@ Gosto de assitir filmes da Marvel/DC, Animes, Séries, e passar raiva vendo o Co
 
 ## Estou aprendendo:
 
-<img loading="lazy" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />" width="10" height="10"/> <img loading="lazy" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"" width="10" height="10"/> <img loading="lazy" src="<img src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />"" width="10" height="10"/> 
+<img loading="lazy" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />" width="10" height="10"/> 
+<img loading="lazy" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"" width="10" height="10"/> 
+<img loading="lazy" src="<img src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />"" width="10" height="10"/> 
 
 ## Contatos:
 
