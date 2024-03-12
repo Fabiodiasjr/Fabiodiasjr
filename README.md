@@ -7,11 +7,11 @@
 **Meu nome é Fabio Dias**, tenho 27 anos, sou Engenheiro Aeronáutico e atualmente estou cursando a faculdade de **Análise e Desenvolvimento de Sistemas (ADS)**, pois assim consigo adquirir novos conhecimentos, o que me ajudou a conseguir um estágio na área de TI na secretaria da educação. 
 Gosto de assitir filmes da Marvel/DC, Animes, Séries, e passar raiva vendo o Corinthians jogar kkk.
 
+
 ## Estou aprendendo:
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/> 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/> 
+
 
 ## Contatos:
 
