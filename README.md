@@ -9,7 +9,7 @@ Gosto de assitir filmes da Marvel/DC, Animes, Séries, e passar raiva vendo o Co
 
 ## Estou aprendendo:
 
-<img loading="lazy" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />" width="5" height="5"/> 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
 ## Contatos:
 
