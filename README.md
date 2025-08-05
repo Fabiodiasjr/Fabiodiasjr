@@ -4,9 +4,9 @@
 
 ## Sobre mim:
 
-**Meu nome é Fabio Dias**, tenho 28 anos, sou Engenheiro Aeronáutico e atualmente estou cursando a faculdade de **Análise e Desenvolvimento de Sistemas (ADS)**, pois assim consigo adquirir novos conhecimentos.
-Estou em busca de opotunidade de estágio na respectiva área. 
-Gosto de assitir filmes da Marvel/DC, Animes, Séries, e passar raiva vendo o Corinthians jogar kkk.
+**Meu nome é Fabio Dias**, tenho 29 anos, sou Engenheiro Aeronáutico e estou cursando a faculdade de **Analista e Desenvolvedor de Sistemas.
+Estou em busca de opotunidade de emprego nas respectivas áreas. 
+Gosto de assitir filmes da Marvel/DC, Animes, Séries, e passar raiva vendo o Corinthians jogar.
 
 
 ## Estou aprendendo:
