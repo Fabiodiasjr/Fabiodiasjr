@@ -4,7 +4,7 @@
 
 ## Sobre mim:
 
-**Meu nome é Fabio Dias **, tenho 29 anos, sou Engenheiro Aeronáutico e Analista e Desenvolvedor de Sistemas.
+**Meu nome é Fabio Dias**, tenho 29 anos, sou Engenheiro Aeronáutico e Analista e Desenvolvedor de Sistemas.
 Estou em busca de opotunidade de emprego nas respectivas áreas. 
 Gosto de assitir filmes da Marvel/DC, Animes, Séries, e passar raiva vendo o Corinthians jogar.
 
